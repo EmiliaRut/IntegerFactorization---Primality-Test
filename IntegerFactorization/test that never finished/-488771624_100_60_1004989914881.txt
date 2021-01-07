@@ -1,0 +1,197 @@
+Seed used:	-488771624
+N:	1004989914881
+Crossover rate:	100
+Mutation Rate:	60
+
+Generation #	1
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	363824
+Convergence:	0.001
+
+Generation #	2
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	324113
+Convergence:	0.001
+
+Generation #	3
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	306109
+Convergence:	0.002
+
+Generation #	4
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	310019
+Convergence:	0.003
+
+Generation #	5
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	302475
+Convergence:	0.002
+
+Generation #	6
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	307253
+Convergence:	0.002
+
+Generation #	7
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	287577
+Convergence:	0.001
+
+Generation #	8
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	268933
+Convergence:	0.002
+
+Generation #	9
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	296619
+Convergence:	0.004
+
+Generation #	10
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	283850
+Convergence:	0.006
+
+Generation #	11
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	276189
+Convergence:	0.003
+
+Generation #	12
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	272220
+Convergence:	0.007
+
+Generation #	13
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	276092
+Convergence:	0.005
+
+Generation #	14
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	287911
+Convergence:	0.005
+
+Generation #	15
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	260888
+Convergence:	0.003
+
+Generation #	16
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	257426
+Convergence:	0.004
+
+Generation #	17
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	258426
+Convergence:	0.001
+
+Generation #	18
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	241615
+Convergence:	0.001
+
+Generation #	19
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	284942
+Convergence:	0.004
+
+Generation #	20
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	275981
+Convergence:	0.003
+
+Generation #	21
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	264244
+Convergence:	0.002
+
+Generation #	22
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	267617
+Convergence:	0.001
+
+Generation #	23
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	287180
+Convergence:	0.001
+
+Generation #	24
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	271446
+Convergence:	0.003
+
+Generation #	25
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	283832
+Convergence:	0.006
+
+Generation #	26
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	255747
+Convergence:	0.014
+
+Generation #	27
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	260450
+Convergence:	0.01
+
+Generation #	28
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	285453
+Convergence:	0.004
+
+Generation #	29
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	282705
+Convergence:	0.005
+
+Generation #	30
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	263157
+Convergence:	0.005
+
+Generation #	31
+Fittest Chrom Eval:	77
+Fittest Chrom Prime:	843251
+Population Average Eval:	277152
+Convergence:	0.006
+
+Generation #	32
+Fittest Chrom Eval:	0
+Fittest Chrom Prime:	1005007
+Population Average Eval:	274819
+Convergence:	0.011
+

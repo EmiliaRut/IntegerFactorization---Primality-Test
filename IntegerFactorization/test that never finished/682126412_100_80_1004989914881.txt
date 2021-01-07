@@ -1,0 +1,41 @@
+Seed used:	682126412
+N:	1004989914881
+Crossover rate:	100
+Mutation Rate:	80
+
+Generation #	1
+Fittest Chrom Eval:	281
+Fittest Chrom Prime:	1262233
+Population Average Eval:	384486
+Convergence:	0.001
+
+Generation #	2
+Fittest Chrom Eval:	281
+Fittest Chrom Prime:	1262233
+Population Average Eval:	352862
+Convergence:	0.001
+
+Generation #	3
+Fittest Chrom Eval:	281
+Fittest Chrom Prime:	1262233
+Population Average Eval:	342515
+Convergence:	0.001
+
+Generation #	4
+Fittest Chrom Eval:	281
+Fittest Chrom Prime:	1262233
+Population Average Eval:	349036
+Convergence:	0.001
+
+Generation #	5
+Fittest Chrom Eval:	151
+Fittest Chrom Prime:	1538399
+Population Average Eval:	328398
+Convergence:	0.002
+
+Generation #	6
+Fittest Chrom Eval:	0
+Fittest Chrom Prime:	999983
+Population Average Eval:	331067
+Convergence:	0.001
+
